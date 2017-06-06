@@ -1,5 +1,5 @@
 // GLOBALS
-var url = "https://raw.githubusercontent.com/atiredturtle/code1161base/master/Project/Web_Scrapped_websites.csv";
+var url = "https://raw.githubusercontent.com/atiredturtle/worldwideweb.io/gh-pages/Web_Scrapped_websites.csv";
 var NUM_FAVS = 5
 var website_to_draw = "www.facebook.com"; // default
 var CSVdata;
