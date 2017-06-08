@@ -141,8 +141,6 @@ function drawSiteList(){
 }
 
 
- 
-
 // redraws map when search is changed
 $('#websiteSearch').change(function(){
     siteSearched = $('#websiteSearch').val();
